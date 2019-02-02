@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>de_dev</name>
+  <name>gscn_dev</name>
   <version>0.0.0</version>
-  <description>Drone Employee development kit</description>
+  <description>Geoscan development kit</description>
   <maintainer email="tvvzdv@gmail.com">Ivan Biriuk</maintainer>
   <license>BSD3</license>
-  <url type="repository">https://github.com/tuuzdu/de_robonomics</url>
+  <url type="repository">https://github.com/tuuzdu/</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
